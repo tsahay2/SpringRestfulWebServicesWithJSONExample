@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SpringRestfulWebServicesWithJSONExample:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="SpringRestfulWebServicesWithJSONExample.war">
+      <element id="artifact" artifact-name="SpringRestfulWebServicesWithJSONExample:war exploded" />
+    </root>
+  </artifact>
+</component>
